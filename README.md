@@ -3,8 +3,8 @@
 *by roiko* 
 
 clone it and run it enywhere you want.. 
-markdown
-```
+
+```markdown
 sudo apt update && upt upgrade -y
 https://github.com/roiko96/code
 cd code
