@@ -7,11 +7,13 @@ clone it and run it enywhere you want..
 ```markdown
 sudo apt update && upt upgrade -y
 https://github.com/roiko96/code
-cd code
 ```
 <br> run: </br>
 ```
 sudo apt install python3 -y 
+cd Desktop/
+cd code
 python3 main1.py
 ```
 # enojy
+<br> in win, run with vs or wsl in cmd terminal or ssomething (you must install python on your win before testing - for the original website </br>
