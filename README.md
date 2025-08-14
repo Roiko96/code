@@ -11,7 +11,6 @@ https://github.com/roiko96/code
 <br> run: </br>
 ```
 sudo apt install python3 -y 
-cd Desktop/
 cd code
 python3 main1.py
 ```
