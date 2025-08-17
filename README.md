@@ -15,4 +15,4 @@ cd code
 python3 main1.py
 ```
 # enojy
-<br> in win, run with vs or wsl in cmd terminal or ssomething (you must install python on your win before testing - for the original website </br>
+<br> in win, run with vs or wsl in cmd terminal or ssomething (you must install python on your win before testing . *download from the original website* </br>
