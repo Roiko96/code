@@ -5,7 +5,7 @@
 clone it and run it enywhere you want.. 
 
 ```markdown
-sudo apt update && upt upgrade -y
+sudo apt update && sudo upt upgrade -y
 https://github.com/roiko96/code
 ```
 <br> run: </br>
