@@ -1,4 +1,4 @@
-## Simple code of game score board cli
+### Simple code of game score board cli
 
 *by roiko* 
 
